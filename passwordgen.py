@@ -1,4 +1,4 @@
-#necessary modules for projects
+#necessary modules for project
 import random
 import string
 
